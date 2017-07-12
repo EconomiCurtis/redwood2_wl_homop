@@ -1,0 +1,40 @@
+body {
+  padding-top: 73px;
+}
+.actionSpace {
+  height:300px;
+  width: 100%;
+}
+#flow {
+  height: 300px;
+  width: 100%;
+}
+.actionHistory {
+  height: 200px;
+  width: 98%;
+  margin-left: 12px;
+  padding-right: 10px;
+}
+.well {
+  height: 200px;
+  width: 98%;
+  margin-left: 12px;
+  padding-right: 10px;
+}
+#slider {
+  margin-left: 18px;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+p {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 25px;
+}
+p.info {
+  margin: 5px;
+}
+hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
