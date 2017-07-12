@@ -1,4 +1,5 @@
-# redwood2_wl_homop
+# Weakest Link and Homotopy in Redwood 2
+
 Redwood2 Continuous time implementation of minimum effort (weakest link) game with homotopy of payoff parameters. 
 
 -------
