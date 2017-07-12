@@ -1,0 +1,6 @@
+period,groups,initialActions,ymax,ymin,period_length_s,num_sub_periods,step,snap,payoff,hidePayoffs,payoffProjection,q1,q2,mu,minX,maxX,adjustAccuracy,actionHistory,WLalpha,WLbeta,WLconstant
+1,"[[1,2,3,4],[5,6,7,8]]","[1,2,3,4]",1000,0,99,0,0.9,0,stable,FALSE,TRUE,0.6666,0.333,0.5,1,7,0.01,TRUE,[10],[10],[60]
+2,"[[1,2,3,4],[5,6,7,8]]","[1,2,3,4]",1000,0,99,0,0,0,stable,FALSE,TRUE,0.6666,0.333,0.5,1,7,0.01,TRUE,[10],[10],[60]
+3,"[[1,2,3,4],[5,6,7,8]]","[1,2,3,4]",1000,0,99,0,0.9,0,stable,FALSE,TRUE,0.6666,0.333,0.5,1,7,0.01,TRUE,[10],[10],[60]
+4,"[[1,2,3,4],[5,6,7,8]]","[1,2,3,4]",1000,0,99,0,0.8,0,stable,FALSE,FALSE,0.6666,0.333,0.5,1,7,0.01,TRUE,[10],[10],[60]
+5,"[[1,2,3,4],[5,6,7,8]]","[1,2,3,4]",1000,0,99,0,0.7,0,stable,TRUE,FALSE,0.6666,0.333,0.5,1,7,0.01,TRUE,[10],[10],[60]
